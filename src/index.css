@@ -1,0 +1,4 @@
+/* Added tailwind styling to this file */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
