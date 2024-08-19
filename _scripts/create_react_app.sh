@@ -20,5 +20,5 @@ npm i react-router-dom
 # https://github.com/davidhu2000/react-spinners
 npm i react-spinners
 
-# Installs 
+# Installs react-toastify for toast messages after an action
 npm i react-toastify
