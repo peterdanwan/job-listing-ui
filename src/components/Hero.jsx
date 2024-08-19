@@ -1,13 +1,8 @@
-// We destructure the `props` object's
-// elements passed to the Hero component.
-//
-// Notice how the props are named EXACTLY the same as
-// what you pass the component.
-//
-// We don't need to pass the props in the same order that they are passed in
+// src\components\Hero.jsx
+
 const Hero = ({
-  subtitle = 'Find a React Job',
   title = 'Become a React Dev',
+  subtitle = 'Find the React job that fits your skills and needs',
 }) => {
   return (
     <section className='bg-indigo-700 py-20 mb-4'>

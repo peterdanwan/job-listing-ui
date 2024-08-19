@@ -4,9 +4,9 @@ This repository contains modifications of the code provided by `Traversy Media` 
 
 The Job Listing UI is a front-end app that uses [`React`](https://react.dev/) and [`react-router-dom`](https://reactrouter.com/en/main).
 
-## Requirements to run
+## System Requirements
 
-1. You will require [Node.js](https://nodejs.org/en) to run the commands below.
+1. You must have [Node.js](https://nodejs.org/en) installed to run the commands below.
 
 ## Running this application locally
 

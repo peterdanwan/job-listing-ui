@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 export default {
-  // Looks for tailwind classes in ANY of those files
+  //* Looks for tailwind classes in ANY of those files
   content: ['./index.html', './src/**/*.{js,ts,jsx,tsx}'],
   theme: {
     // Manually added content within extend
